@@ -26,12 +26,16 @@ I'm Thanos, and here you can see some cool info about me. You can also find me o
 
 [1]: https://www.linkedin.com/in/tmanolis/
 
-<!-- Github stats Card -->
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanosmanolis&langs_count=8&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 <!-- Top Languages Card -->
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<p>
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanosmanolis&count_private=true&show_icons=true&hide=issues,contribs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+</p>
+
+<!-- Github stats Card -->
+<p>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanosmanolis&langs_count=8&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+</p>
