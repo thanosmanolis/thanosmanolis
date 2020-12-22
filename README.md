@@ -29,7 +29,7 @@ I'm Thanos, and here you can see some cool info about me. You can also find me o
 <!-- Top Languages Card -->
 <p>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanosmanolis&count_private=true&show_icons=true&hide=issues,contribs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanosmanolis&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 </p>
 
